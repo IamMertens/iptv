@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,PHOENIX HD
+http://91.64.25.31:9981/stream/channelid/1033203439
+#EXTINF:-1,rbb Berlin HD
+http://91.64.25.31:9981/stream/channelid/1795100789
+#EXTINF:-1,Das Erste HD
+http://91.64.25.31:9981/stream/channelid/224958051
+#EXTINF:-1,ZDF HD
+http://91.64.25.31:9981/stream/channelid/25282825
+#EXTINF:-1,arte HD
+http://91.64.25.31:9981/stream/channelid/206250387
+#EXTINF:-1,zdf_neo HD
+http://91.64.25.31:9981/stream/channelid/2045340591
+#EXTINF:-1,KiKA HD
+http://91.64.25.31:9981/stream/channelid/807799612
+#EXTINF:-1,kabel eins HD
+http://91.64.25.31:9981/stream/channelid/2038943286
+#EXTINF:-1,SPORT1 HD
+http://91.64.25.31:9981/stream/channelid/539959229
+#EXTINF:-1,RTL II HD
+http://91.64.25.31:9981/stream/channelid/1253813684
+#EXTINF:-1,RTL HD
+http://91.64.25.31:9981/stream/channelid/613705744
+#EXTINF:-1,VOX HD
+http://91.64.25.31:9981/stream/channelid/1828549284
+#EXTINF:-1,ProSieben HD
+http://91.64.25.31:9981/stream/channelid/1628440471
+#EXTINF:-1,SAT.1 HD
+http://91.64.25.31:9981/stream/channelid/1867146428
+#EXTINF:-1,sixx HD
+http://91.64.25.31:9981/stream/channelid/338017552
+#EXTINF:-1,NITRO HD
+http://91.64.25.31:9981/stream/channelid/1501698421
+#EXTINF:-1,Disney Ch. HD
+http://91.64.25.31:9981/stream/channelid/1844037712
+#EXTINF:-1,DMAX HD
+http://91.64.25.31:9981/stream/channelid/334409216
+#EXTINF:-1,MTV HD
+http://91.64.25.31:9981/stream/channelid/421123314
+#EXTINF:-1,TELE 5 HD
+http://91.64.25.31:9981/stream/channelid/1469309341
+#EXTINF:-1,CNN HD (eng)
+http://91.64.25.31:9981/stream/channelid/610747840
+#EXTINF:-1,ProSieben MAXX HD
+http://91.64.25.31:9981/stream/channelid/2086941604
+#EXTINF:-1,Nick HD
+http://91.64.25.31:9981/stream/channelid/661630030
+#EXTINF:-1,n-tv HD
+http://91.64.25.31:9981/stream/channelid/1588612284
+#EXTINF:-1,tagesschau24 HD
+http://91.64.25.31:9981/stream/channelid/651084679
+#EXTINF:-1,SAT.1 Gold HD
+http://91.64.25.31:9981/stream/channelid/1055309239
+#EXTINF:-1,DELUXE MUSIC HD
+http://91.64.25.31:9981/stream/channelid/1559759342
+#EXTINF:-1,Eurosport 1 HD
+http://91.64.25.31:9981/stream/channelid/1156103770
