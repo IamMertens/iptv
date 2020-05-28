@@ -1,57 +1,91 @@
 #EXTM3U
-#EXTINF:-1,PHOENIX HD
-http://91.64.25.31:9981/stream/channelid/1033203439
-#EXTINF:-1,rbb Berlin HD
-http://91.64.25.31:9981/stream/channelid/1795100789
-#EXTINF:-1,Das Erste HD
-http://91.64.25.31:9981/stream/channelid/224958051
-#EXTINF:-1,ZDF HD
-http://91.64.25.31:9981/stream/channelid/25282825
-#EXTINF:-1,arte HD
-http://91.64.25.31:9981/stream/channelid/206250387
-#EXTINF:-1,zdf_neo HD
-http://91.64.25.31:9981/stream/channelid/2045340591
-#EXTINF:-1,KiKA HD
-http://91.64.25.31:9981/stream/channelid/807799612
-#EXTINF:-1,kabel eins HD
-http://91.64.25.31:9981/stream/channelid/2038943286
-#EXTINF:-1,SPORT1 HD
-http://91.64.25.31:9981/stream/channelid/539959229
-#EXTINF:-1,RTL II HD
-http://91.64.25.31:9981/stream/channelid/1253813684
-#EXTINF:-1,RTL HD
-http://91.64.25.31:9981/stream/channelid/613705744
-#EXTINF:-1,VOX HD
-http://91.64.25.31:9981/stream/channelid/1828549284
-#EXTINF:-1,ProSieben HD
-http://91.64.25.31:9981/stream/channelid/1628440471
-#EXTINF:-1,SAT.1 HD
-http://91.64.25.31:9981/stream/channelid/1867146428
-#EXTINF:-1,sixx HD
-http://91.64.25.31:9981/stream/channelid/338017552
-#EXTINF:-1,NITRO HD
-http://91.64.25.31:9981/stream/channelid/1501698421
-#EXTINF:-1,Disney Ch. HD
-http://91.64.25.31:9981/stream/channelid/1844037712
-#EXTINF:-1,DMAX HD
-http://91.64.25.31:9981/stream/channelid/334409216
-#EXTINF:-1,MTV HD
-http://91.64.25.31:9981/stream/channelid/421123314
-#EXTINF:-1,TELE 5 HD
-http://91.64.25.31:9981/stream/channelid/1469309341
-#EXTINF:-1,CNN HD (eng)
-http://91.64.25.31:9981/stream/channelid/610747840
-#EXTINF:-1,ProSieben MAXX HD
-http://91.64.25.31:9981/stream/channelid/2086941604
-#EXTINF:-1,Nick HD
-http://91.64.25.31:9981/stream/channelid/661630030
-#EXTINF:-1,n-tv HD
-http://91.64.25.31:9981/stream/channelid/1588612284
-#EXTINF:-1,tagesschau24 HD
-http://91.64.25.31:9981/stream/channelid/651084679
-#EXTINF:-1,SAT.1 Gold HD
-http://91.64.25.31:9981/stream/channelid/1055309239
-#EXTINF:-1,DELUXE MUSIC HD
-http://91.64.25.31:9981/stream/channelid/1559759342
-#EXTINF:-1,Eurosport 1 HD
-http://91.64.25.31:9981/stream/channelid/1156103770
+#EXTINF:-1 A Para
+https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8
+#EXTINF:-1 A Spor TR
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
+#EXTINF:-1 A2TV
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
+#EXTINF:-1 Afyon Turk TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
+#EXTINF:-1 ,Ahi TV Kirsehir
+http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
+#EXTINF:-1 ,Akit TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 ,Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 ,Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 ,Altaş TV
+http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
+#EXTINF:-1 ,Ben TV
+http://kanalben.cubecdn.net/live/kanalben1.m3u8
+#EXTINF:-1 ,Beşiktaş Web TV
+http://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1 ,BRT 1 (Kıbrıs)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:-1 ,BRT 2
+http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
+#EXTINF:-1 ,BRT 2 (Turkish)
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 ,Bursa TV
+https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
+#EXTINF:-1 ,Can TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 ,Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 ,CRI Turk Belgesel
+http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
+#EXTINF:-1 ,Dersim62 TV
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:-1 ,DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" group-title="",EuroStar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/NVdh9jY/fox.jpg" group-title="",FOX
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+#EXTINF:-1 ,IBB TV
+rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+#EXTINF:-1 ,Kanal 3
+http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
+#EXTINF:-1 ,Kanal D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
+#EXTINF:-1 ,Kral Pop
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 ,NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 ,NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,Show
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
+#EXTINF:-1 ,Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,Star TV
+https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
+#EXTINF:-1 ,TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:-1 ,TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 ,TGRT Haber
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
+#EXTINF:-1 ,tivi TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 ,TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+#EXTINF:-1 ,TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 ,TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TRT 2
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TRT Haber
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TRT Türk
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TV 4
+https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
+#EXTINF:-1 ,360 TV
+https://stream-12.dc3.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyL9zClWZ2t-0R63bhFPkxx8)/dm/3/x648uq8/s/live-1.m3u8
+#EXTINF:-1 ,360 TV2
+https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
