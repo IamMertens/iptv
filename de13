@@ -89,13 +89,5 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 ,360 TV
 https://stream-12.dc3.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyL9zClWZ2t-0R63bhFPkxx8)/dm/3/x648uq8/s/live-1.m3u8
-#EXTINF:-1 , ATV
-https://stream.personamedia.tv/atv?sid=80e9e094-6ada-40b8-a0f3-a7b99da26cb6
-#EXTINF:-1 , ATV 2
-https://joker.tvizlehd.com/atv.m3u8?tkn=8UtNKdAnh0AwTw7O0h36HQ&tms=1590711248&hst=canlitv.gen.tl
-#EXTINF:-1 , ATV 2
-https://joker.tvizlehd.com/atv-20276.ts?tkn=8UtNKdAnh0AwTw7O0h36HQ&tms=1590711248&hst=canlitv.gen.tl&ip=88.130.83.253
 #EXTINF:-1 , Beyaz tv
-http://ch.canlitvlive.io/beyaztv/live.m3u8?tkn=Itu_d2xviu_NTG2ScS_O_Q&tms=1590718103
-#EXTINF:-1 , TV 8
-http://ch.canlitvlive.io/kanal8/live.m3u8?tkn=vKRnLtVeKzwf17aUILJqhQ&tms=1590718045
+https://s-tream.antensiz.tv/beyaztv/live.m3u8?t=sqnkBMNWJMtwDjQsvVuX4A&e=1590707961
