@@ -91,3 +91,5 @@ https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 https://stream-12.dc3.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyL9zClWZ2t-0R63bhFPkxx8)/dm/3/x648uq8/s/live-1.m3u8
 #EXTINF:-1 , Beyaz tv
 https://stream-03.dc3.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzAnR0a-l0k-6pjzwDivYGDY)/dm/3/x4kopfq/d/live-1.m3u8
+#EXTINF:-1 , ATV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590727617/ei/YT_QXu2bM8ul1gLF_aCwAw/ip/2001%3A16b8%3A6021%3Acc00%3A19d9%3Aa551%3A69f8%3A9fa3/id/28_RWPdysC4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/de/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIV0zpZ1wB2E-hf-8R7R5f9hVAxzShgJle88IFu06XgiAiEA34lhliRlqLMzNNX_KWtL5yu7bZ3u3JPO9Rn7S0QIu8Q%3D/file/index.m3u8
