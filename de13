@@ -17,6 +17,28 @@ https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1 ,A2TV
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
+#EXTINF:-1 ,EuroStar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1 ,FOX
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+#EXTINF:-1 , Beyaz tv
+https://stream-03.dc3.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzAnR0a-l0k-6pjzwDivYGDY)/dm/3/x4kopfq/d/live-1.m3u8
+#EXTINF:-1 , ATV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590727617/ei/YT_QXu2bM8ul1gLF_aCwAw/ip/2001%3A16b8%3A6021%3Acc00%3A19d9%3Aa551%3A69f8%3A9fa3/id/28_RWPdysC4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/de/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIV0zpZ1wB2E-hf-8R7R5f9hVAxzShgJle88IFu06XgiAiEA34lhliRlqLMzNNX_KWtL5yu7bZ3u3JPO9Rn7S0QIu8Q%3D/file/index.m3u8
+#EXTINF:-1 , ATV 2
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
+#EXTINF:-1 , Teve 2
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist.m3u8
+#EXTINF:-1 , Tv 8
+https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/playlist.m3u8
+#EXTINF:-1 ,TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TRT 2
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TRT Haber
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1 ,TRT Türk
+https://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 ,Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 #EXTINF:-1 ,Ahi TV Kirsehir
@@ -51,10 +73,6 @@ http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
 http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
 #EXTINF:-1 ,DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-#EXTINF:-1 ,EuroStar
-http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:-1 ,FOX
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
 #EXTINF:-1 ,IBB TV
 rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
 #EXTINF:-1 ,Kanal 3
@@ -75,27 +93,9 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1 ,TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 ,TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TRT 2
-https://tv-trt2.live.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TRT Haber
-https://tv-trthaber.live.trt.com.tr/master.m3u8
-#EXTINF:-1 ,TRT Türk
-https://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 ,TV 4
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
 #EXTINF:-1 ,360 TV
 https://stream-12.dc3.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyL9zClWZ2t-0R63bhFPkxx8)/dm/3/x648uq8/s/live-1.m3u8
-#EXTINF:-1 , Beyaz tv
-https://stream-03.dc3.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzAnR0a-l0k-6pjzwDivYGDY)/dm/3/x4kopfq/d/live-1.m3u8
-#EXTINF:-1 , ATV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590727617/ei/YT_QXu2bM8ul1gLF_aCwAw/ip/2001%3A16b8%3A6021%3Acc00%3A19d9%3Aa551%3A69f8%3A9fa3/id/28_RWPdysC4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/de/vprv/1/go/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIV0zpZ1wB2E-hf-8R7R5f9hVAxzShgJle88IFu06XgiAiEA34lhliRlqLMzNNX_KWtL5yu7bZ3u3JPO9Rn7S0QIu8Q%3D/file/index.m3u8
-#EXTINF:-1 , ATV 2
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
-#EXTINF:-1 , Teve 2
-https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist.m3u8
-#EXTINF:-1 , Tv 8
-https://mn-nl.mncdn.com/blutv_tv8_int/tv8int_sd.smil/playlist.m3u8
