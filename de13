@@ -22,7 +22,7 @@ https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
 #EXTINF:-1 ,EuroStar
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
 #EXTINF:-1 ,FOX
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1599276587&st=Drid_IG_M2-i5afaN1mXPg
 #EXTINF:-1 , ATV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1598917974/ei/9ThNX7OiNpCp1gK2vLnADA/ip/2001%3A16b8%3A6056%3A2b00%3A71d1%3Ac971%3Af918%3Aacce/id/rASOiIIoctM.0\/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALqWnYozndNTAwOhcCoWnM_lIrEz6S9nQWFsjyiHB2q3AiBsGq-MbFy8uZQP53eXQg4d9prU49mVkUp20fQC5W_jXg%3D%3D/file/index.m3u8
 #EXTINF:-1 , ATV 2
