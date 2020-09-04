@@ -109,3 +109,7 @@ http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 http://streams2.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1 , ATV
 http://ch.canlitvlive.io/atv/live.m3u8
+#EXTINF:-1 , ATV
+https://59cba4d34b678.streamlock.net/canlitv/avtv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 , ATV
+http://world-ipsat.com:8080/fbmvyZlttr/E69OENR3Fz/1022?checkedby:iptvcat.com
