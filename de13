@@ -20,11 +20,23 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1 ,A2TV
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
 #EXTINF:-1 ,EuroStar
-http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:-1,Star TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 ,FOX
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1599276587&st=Drid_IG_M2-i5afaN1mXPg
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+#EXTINF:-1 ,FOX
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 , ATV
 http://ch.canlitvlive.io/atv-avrupa/live.m3u8
+#EXTINF:-1,Showmax 720
+http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
+#EXTINF:-1,Showmax 640
+http://ch.canlitvlive.io/show-max/live.m3u8
+#EXTINF:-1,TV8
+http://ch.canlitvlive.io/kanal8/live.m3u8
+#EXTINF:-1,TV 8.5
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist.m3u8
 #EXTINF:-1 , ATV 2
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
 #EXTINF:-1 , Teve 2
