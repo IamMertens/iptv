@@ -2,27 +2,37 @@
 #EXTINF:-1 ,360 TV2
 https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
 #EXTINF:-1 ,Kanal D
-http://soledge7.dogannet.tv/S2/HLS_LIVE/eurod/index.m3u8?checkedby:iptvcat.com
+https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
+#EXTINF:-1 ,Kanal D
+https://tv.kuzeytv.com/hls/kanald.m3u8
+#EXTINF:-1 ,Kanal D
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2762.m3u8
 #EXTINF:-1 ,NTV
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 ,Show
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
+http://pro.waldi2017.com:8789/live/99887766/9988776655/23096.m3u8
+#EXTINF:-1 ,Show
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2754.m3u8
 #EXTINF:-1 ,Star TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 , Beyaz tv
 http://ch.canlitvlive.io/beyaztv/live.m3u8
-#EXTINF:-1 ,Star TV
-https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 #EXTINF:-1 ,EuroStar
 https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:-1,Star TV HD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 ,FOX
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1599424098&st=nXZ-eM_Chd15BlTVjkhAdw
+http://pro.waldi2017.com:8789/live/99887766/9988776655/23092.m3u8
 #EXTINF:-1 ,FOX
-https://tv.kuzeytv.com/hls/fox.m3u8?checkedby:iptvcat.com
+http://mhiptv.com:8888/noval/123456/4217
+#EXTINF:-1 ,FOX HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2774.m3u8
 #EXTINF:-1 , ATV
-http://ch.canlitvlive.io/atv-avrupa/live.m3u8
+http://pro.waldi2017.com:8789/live/99887766/9988776655/23094.m3u8
+#EXTINF:-1 , ATV
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2786.m3u8
+#EXTINF:-1 , BEIN
+http://mhiptv.com:8888/noval/123456/4000
 #EXTINF:-1,Showmax 720
 http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
 #EXTINF:-1,Showmax 640
