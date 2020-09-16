@@ -12,7 +12,21 @@ https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
 #EXTINF:-1,SHOW TV HD 
 https://canli.ensonhaber.com/tr/showtv/index.m3u8
 #EXTINF:-1,FOX TV HD 
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd2.smil/playlist.m3u8
+http://185.56.30.204/live/foxtv.m3u8
+#EXTINF:-1,FOX TV HD 
+https://streams.livetv.az/turk/fox_stream/playlist.m3u8 
+#EXTINF:-1,FOX TV HD 
+http://85.132.71.6/turk/fox_stream/playlist.m3u8 
+#EXTINF:-1,FOX TV
+https://85.132.71.6/turk/fox/index.m3u8
+#EXTINF:-1,TR: FX TV
+http://link.comstar.tv:7899/Alonzo/Alonzo123456/31514
+#EXTINF:-1,TR: FOX HD PLUS
+http://91.208.115.170:25461/CCGChkTkpgvevwo/fLDaTedqduhtZYB/76034
+#EXTINF:-1 ,TR │ FOX HD+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/72.m3u8
+#EXTINF:-1 ,TR │ FOX HD+
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1,TV8 HD 
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8
 #EXTINF:-1,TRT1 HD
