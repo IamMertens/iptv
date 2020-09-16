@@ -2,21 +2,7 @@
 #EXTINF:-1,bSPORTS HD 1
 http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:-1,ATV HD
-http://pro-panel01.club:8080/yunus/123456/15289
-#EXTINF:-1,alliptvlinks.com TR: ATV HD
-http://cobraa.in:8000/x5004000/11695184395f4590f4e02f6/11694
-#EXTINF:-1,alliptvlinks.com TR: ATV HD BKUP
-http://cobraa.in:8000/x5004000/11695184395f4590f4e02f6/11693
-#EXTINF:-1 tvg-ID=""tvg-name="|TR| ATV"tvg-logo=""group-title="TURK",alliptvlinks.com |TR| ATV
-http://provip-titan.com:7040/WetovPBAr5/EAS4ud5Xvu/14151
-#EXTINF:-1 tvg-ID=""tvg-name="|TR| ATV Avrupa"tvg-logo=""group-title="TURK",alliptvlinks.com |TR| ATV Avrupa
-http://provip-titan.com:7040/WetovPBAr5/EAS4ud5Xvu/14149
-#EXTINF:-1 tvg-ID=""tvg-name="|TR| ATV AZERBEYCAN"tvg-logo=""group-title="TURK",alliptvlinks.com |TR| ATV AZERBEYCAN
-http://provip-titan.com:7040/WetovPBAr5/EAS4ud5Xvu/14122
-#EXTINF:-1 tvg-ID=""tvg-name="|TR| ATV HD TR"tvg-logo=""group-title="TURK",alliptvlinks.com |TR| ATV HD TR
-http://provip-titan.com:7040/WetovPBAr5/EAS4ud5Xvu/14150
-#EXTINF:-1,alliptvlinks.com VIP TR: ATV 4K
-http://pro-panel01.club:8080/venkat/venkat/15289
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,STAR HD 
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,KANALD HD
