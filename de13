@@ -10,17 +10,11 @@ https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
 #EXTINF:-1,SHOW TV HD 
 https://canli.ensonhaber.com/tr/showtv/index.m3u8
 #EXTINF:-1 ,FOX HD
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p-1600441300000.ts?e=1600486894&st=lrVI6tCDVdLCMuVp2Hbwpw
 #EXTINF:-1 ,FOX HD
-http://reds.ppdn.tn/iptv/ch1376?code=460134681098246&key=26740
-#EXTINF:-1 ,FOX HD
-http://dreamstariptv.live:8080/Li7p4Ro09x/TOz4aeawCu/25
-#EXTINF:-1 ,FOX HD
-http://hdtvizle.ru/14452/71930/71968/foxtv.m3u8
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1600486894&st=lrVI6tCDVdLCMuVp2Hbwpw
 #EXTINF:-1 ,FOX HD
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
-#EXTINF:-1 ,FOX HD
-https://master.tvizlehd.com/foxtv.m3u8?tkn=y_Yzm6j2dSh8b_R7I-NLxA&tms=1600455361&hst=www.canlitv.legal
 #EXTINF:-1,TV8 HD 
 http://streams.livetv.az/turk/fox_stream_sd/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,TRT1 HD
