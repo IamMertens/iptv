@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,bSPORTS HD 1
 http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:-1,A Spor
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,STAR HD 
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,KANALD HD
@@ -8,11 +10,19 @@ https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
 #EXTINF:-1,SHOW TV HD 
 https://canli.ensonhaber.com/tr/showtv/index.m3u8
 #EXTINF:-1 ,FOX HD
-http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 ,FOX HD
+http://reds.ppdn.tn/iptv/ch1376?code=460134681098246&key=26740
+#EXTINF:-1 ,FOX HD
+http://dreamstariptv.live:8080/Li7p4Ro09x/TOz4aeawCu/25
 #EXTINF:-1 ,FOX HD
 http://hdtvizle.ru/14452/71930/71968/foxtv.m3u8
+#EXTINF:-1 ,FOX HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+#EXTINF:-1 ,FOX HD
+https://master.tvizlehd.com/foxtv.m3u8?tkn=y_Yzm6j2dSh8b_R7I-NLxA&tms=1600455361&hst=www.canlitv.legal
 #EXTINF:-1,TV8 HD 
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8
+http://streams.livetv.az/turk/fox_stream_sd/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,TRT1 HD
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,KANAL 7 HD 
