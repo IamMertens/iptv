@@ -8,7 +8,9 @@ https://soledge13.duhnet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8
 #EXTINF:-1,SHOW TV HD 
 https://canli.ensonhaber.com/tr/showtv/index.m3u8
 #EXTINF:-1 ,FOX HD
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd2.smil/playlist.m3u8
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1 ,FOX HD
+http://hdtvizle.ru/14452/71930/71968/foxtv.m3u8
 #EXTINF:-1,TV8 HD 
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8
 #EXTINF:-1,TRT1 HD
