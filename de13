@@ -9,12 +9,6 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/chunklist_b2096000.m3u8
 #EXTINF:-1,SHOW TV HD 
 https://canli.ensonhaber.com/tr/showtv/index.m3u8
-#EXTINF:0,FOX TV
-mms://yayin.canlitv.com/foxtv
-#EXTINF:0,FOX TV
-rtmp://yayin.canlitv.com/live/foxtv
-#EXTINF:-1,FOX TV HD 
-ttps://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist.m3u8
 #EXTINF:-1,FOX TV HD 
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1601270129&st=vuMZG60r7Bk2InvhzR7IlA
 #EXTINF:-1,TV8 HD 
