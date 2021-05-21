@@ -15,6 +15,16 @@ https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1621674860&st=Tu76BBIjcXGR2eAU_wqJXA
 #EXTINF:-1,FOX TV HD 
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+#EXTINF:-1,FOX TV HD i1
+https://iptvcat.com/my_list/s/b12031f336c2279277013e2475350cea.m3u8
+#EXTINF:-1,FOX TV HD i2
+https://iptvcat.com/my_list/s/320bd03dcc3a3f6f6aac0f49d4bd97cd.m3u8
+#EXTINF:-1,FOX TV HD i3
+https://iptvcat.com/my_list/s/a23eece5acf4d79d4603f4ea58569e4f.m3u8
+#EXTINF:-1,FOX TV HD i4
+https://iptvcat.com/my_list/s/ff9182f69b4f9039caa45f4db61434f7.m3u8
+#EXTINF:-1,FOX TV HD i5
+https://iptvcat.com/my_list/s/62ac3c3d12c9f81892060b5f47c4d553.m3u8
 #EXTINF:-1,TV8 HD 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8
 #EXTINF:-1,TRT1 HD
