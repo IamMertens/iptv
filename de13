@@ -1,4 +1,19 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:17333
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.680,FoxTV
+foxtv-17333.ts?tkn=uiVCQLrWxwHKDHcKV0-60Q&tms=1635369725&hst=www.canlitvizle.life&ip=46.142.247.172
+#EXTINF:10.720,FoxTV
+foxtv-17334.ts?tkn=uiVCQLrWxwHKDHcKV0-60Q&tms=1635369725&hst=www.canlitvizle.life&ip=46.142.247.172
+#EXTINF:6.600,FoxTV
+foxtv-17335.ts?tkn=uiVCQLrWxwHKDHcKV0-60Q&tms=1635369725&hst=www.canlitvizle.life&ip=46.142.247.172
+#EXTINF:9.200,FoxTV
+foxtv-17336.ts?tkn=uiVCQLrWxwHKDHcKV0-60Q&tms=1635369725&hst=www.canlitvizle.life&ip=46.142.247.172
+#EXTINF:5.240,FoxTV
+foxtv-17337.ts?tkn=uiVCQLrWxwHKDHcKV0-60Q&tms=1635369725&hst=www.canlitvizle.life&ip=46.142.247.172
+#EXTINF:7.920,
+foxtv-17338.ts?tkn=uiVCQLrWxwHKDHcKV0-60Q&tms=1635369725&hst=www.canlitvizle.life&ip=46.142.247.172
 #EXTINF:-1,Show TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1,360 TV HD
