@@ -12,7 +12,7 @@ https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/chunklist_b2096000.m3u8
 #EXTINF:-1,SHOW TV HD 
 https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
 #EXTINF:-1,FOX TV HD 
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p-1636037710000.ts?e=1636087958&st=zf6W1o7xbyaZGiwAzKuBlQ
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1636090970&st=JUYpmrrQFeAaSpuAjoOlUw
 #EXTINF:-1,FOX TV HD 
 https://manifest.googlevideo.com/api/manifest/dash/expire/1636061601/ei/Qf2DYfHFHcTS1gKxz4OgDQ/ip/2001%3A9e8%3Ae66a%3A2700%3Ac5db%3A6ff5%3Acc5c%3A41bb/id/hEKLBRtOQ08.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/gcr/de/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cgcr%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ_Pqm5u_Cqd-F37hSW0LRptwLK9ZP8O2V8AniHKWF6tAiAjkmfPNw3ZUwUjx_jBGjm3WM0zs1w1-z_c8uLyz51nUg%3D%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1636061601/ei/Qf2DYfHFHcTS1gKxz4OgDQ/ip/2001%3A9e8%3Ae66a%3A2700%3Ac5db%3A6ff5%3Acc5c%3A41bb/id/hEKLBRtOQ08.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/de/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgO_ip9zJbP0BwB0wxq7bWQQS7OygxWwDx3PTnU2-lsCMCIFtbUOIlJw9eFj4eFTmEcD0BhvQW_xcYudeI9vUj7fnB/file/index.m3u8
 #EXTINF:-1,TV8 HD 
