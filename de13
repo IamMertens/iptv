@@ -16,9 +16,7 @@ https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1636350532&st=PFZ8rBGheF
 #EXTINF:-1,FOX TV HD 
 https://list.iptvcat.com/my_list/s/4442fb66a46d94e9e62510a292264014.m3u8
 #EXTINF:-1,FOX TV HD 
-https://list.iptvcat.com/my_list/s/ddc06bff3bf33071e5293b1a3e4cd6e4.m3u8
-#EXTINF:-1,FOX TV HD 
-https://list.iptvcat.com/my_list/s/67d03defd58b7713f6629863ce2c9183.m3u8
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
 #EXTINF:-1,TV8 HD 
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8
 #EXTINF:-1,TRT1 HD
